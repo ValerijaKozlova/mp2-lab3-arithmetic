@@ -1,0 +1,3 @@
+﻿  arithmetic.cpp
+c:\mp2-lab3-arithmetic-master\src\arithmetic.cpp(145): warning C4715: Arithmetic::priority: значение возвращается не при всех путях выполнения
+  arithmetic.vcxproj -> C:\mp2-lab3-arithmetic-master\sln\vc9\\Debug\arithmetic.lib

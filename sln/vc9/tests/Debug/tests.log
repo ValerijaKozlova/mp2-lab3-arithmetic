@@ -1,0 +1,2 @@
+﻿  test_arithmetic.cpp
+LINK : fatal error LNK1104: не удается открыть файл "C:\mp2-lab3-arithmetic-master\sln\vc9\Debug\stack.lib"
